@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://clearrecipe.net/sitemap.xml
+Sitemap: https://clearrecipe.net/sitemap-images.xml
