@@ -48,13 +48,32 @@
       var code = (nav[i] || "").slice(0,2).toLowerCase();
       if (code !== "en" && AVAILABLE.indexOf(code) >= 0 && code !== lang){ go(code); return; }
     }
-    /* 2. Cloudflare country fallback via timezone */
+    /* 2. Cloudflare IP geolocation via /cdn-cgi/trace */
+    function geoDetect(cb){
+      try {
+        fetch("/cdn-cgi/trace", {cache:"no-store"}).then(function(r){ return r.text(); })
+        .then(function(t){
+          var m = t.match(/loc=([A-Z]{2})/);
+          var cc = m && m[1];
+          var lang = cc && GEO2LANG[cc.toLowerCase()];
+          cb(lang && lang !== currentLang() && AVAILABLE.indexOf(lang) >= 0 ? lang : null);
+        }).catch(function(){ cb(null); });
+        setTimeout(function(){ cb(null); }, 2500); /* don't hang */
+      } catch(e){ cb(null); }
+    }
+    geoDetect(function(geoLang){
+      if (geoLang){ go(geoLang); return; }
+      tzFallback();
+    });
+  }
+  function tzFallback(){
+    /* 3. Timezone fallback (weak, only for id/es) */
     try {
       var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
-      var m = tz.match(/^(Asia\/Jakarta|America\/Mexico_City|Asia\/Kolkata|America\/Sao_Paulo|Europe\/Paris|Asia\/Ho_Chi_Minh|Europe\/Istanbul|Asia\/Dhaka|Asia\/Kuala_Lumpur)/);
+      var m = tz.match(/^(Asia\/Jakarta|America\/Mexico_City)/);
       /* timezone->lang is weak; only use for id/es which are available */
       var tzlang = {"Asia/Jakarta":"id","America/Mexico_City":"es"}[m && m[1]];
-      if (tzlang && tzlang !== lang){ go(tzlang); return; }
+      if (tzlang && tzlang !== currentLang()){ go(tzlang); return; }
     } catch(e){}
   }
 
