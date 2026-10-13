@@ -6,12 +6,12 @@
     en:"English", id:"Bahasa Indonesia", es:"Español", hi:"हिन्दी", pt:"Português",
     ar:"العربية", fr:"Français", vi:"Tiếng Việt", tr:"Türkçe", bn:"বাংলা", ta:"தமிழ்"
   };
-  var AVAILABLE = CFG.available || ["en","id","es","pt","fr","de","hi","it","ja","ar","tr","vi","ko"]; /* languages actually built */
+  var AVAILABLE = CFG.available || ["en","id","es","pt","fr","de","hi","it","ja","ar","tr","vi","ko","ru","nl"]; /* languages actually built */
   var RTL = {ar:1};
   var LS_KEY = (CFG.site || "cr") + "_lang";
   /* language code -> URL directory (full names, Dave's clarity rule) */
-  var DIR = {en:"", es:"spanish", id:"indonesian", pt:"portuguese", fr:"french", de:"german", hi:"hindi",it:"italian",ja:"japanese",ar:"arabic",tr:"turkish",vi:"vietnamese",ko:"korean"};
-  var DIR2CODE = {"spanish":"es","indonesian":"id","portuguese":"pt","french":"fr","german":"de","hindi":"hi","italian":"it","japanese":"ja","arabic":"ar","turkish":"tr","vietnamese":"vi","korean":"ko"};
+  var DIR = {en:"", es:"spanish", id:"indonesian", pt:"portuguese", fr:"french", de:"german", hi:"hindi",it:"italian",ja:"japanese",ar:"arabic",tr:"turkish",vi:"vietnamese",ko:"korean",ru:"russian",nl:"dutch"};
+  var DIR2CODE = {"spanish":"es","indonesian":"id","portuguese":"pt","french":"fr","german":"de","hindi":"hi","italian":"it","japanese":"ja","arabic":"ar","turkish":"tr","vietnamese":"vi","korean":"ko","russian":"ru","dutch":"nl"};
   var GEO2LANG = {id:"id",es:"es",mx:"es",ar:"es",cl:"es",co:"es",pe:"es",ve:"es",
     in:"hi",br:"pt",pt:"pt",fr:"fr",be:"fr",ch:"fr",vn:"vi",tr:"tr",bd:"bn",sa:"ar",
     eg:"ar",ae:"ar",qa:"ar",kw:"ar",ma:"ar",dz:"ar",tn:"ar",jo:"ar"};

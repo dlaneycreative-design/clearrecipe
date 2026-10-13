@@ -22,3 +22,7 @@
 /vi /vietnamese/ 301
 /ko/* /korean/:splat 301
 /ko /korean/ 301
+/ru/* /russian/:splat 301
+/ru /russian/ 301
+/nl/* /dutch/:splat 301
+/nl /dutch/ 301
