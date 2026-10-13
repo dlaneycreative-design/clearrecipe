@@ -16,3 +16,5 @@
 /ja /japanese/ 301
 /ar/* /arabic/:splat 301
 /ar /arabic/ 301
+/tr/* /turkish/:splat 301
+/tr /turkish/ 301
