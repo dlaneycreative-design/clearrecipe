@@ -180,57 +180,30 @@ section ol.method li{padding-left:46px}
 </div>
 <script>
 (function(){
-  var items = document.querySelectorAll('.rlink');
-  var tags = document.querySelectorAll('.tag');
-  function filter(cuisine, type) {
-    items.forEach(function(item){
-      var show = true;
-      if (cuisine && cuisine !== 'all' && item.dataset.cuisine !== cuisine) show = false;
-      if (type && item.dataset.type !== type) show = false;
-      var li = item.closest('li');
-      if (li) li.style.display = show ? '' : 'none';
-      else item.style.display = show ? '' : 'none';
-    });
+  var path = window.location.pathname;
+  var prefix = '/';
+  if (path.indexOf('/es/') === 0) prefix = '/es/';
+  else if (path.indexOf('/id/') === 0) prefix = '/id/';
+  else if (path.indexOf('/pt/') === 0) prefix = '/pt/';
+  function go(filter) {
+    if (!filter || filter === 'all') { window.location.href = prefix; return; }
+    window.location.href = prefix + 'tag/' + filter + '/';
   }
-  var activeCuisine = 'all', activeType = null;
-  document.getElementById('cuisine-tags').addEventListener('click', function(e){
-    if (!e.target.classList.contains('tag')) return;
-    document.querySelectorAll('#cuisine-tags .tag').forEach(function(t){ t.classList.remove('on'); });
-    e.target.classList.add('on');
-    activeCuisine = e.target.dataset.filter;
-    filter(activeCuisine, activeType);
-  });
-  document.getElementById('type-tags').addEventListener('click', function(e){
-    if (!e.target.classList.contains('tag')) return;
-    var wasOn = e.target.classList.contains('on');
-    document.querySelectorAll('#type-tags .tag').forEach(function(t){ t.classList.remove('on'); });
-    if (!wasOn) { e.target.classList.add('on'); activeType = e.target.dataset.filter; }
-    else { activeType = null; }
-    filter(activeCuisine, activeType);
-  });
-
-  // Handle URL params from recipe page tags (e.g. ?cuisine=italian or ?type=main)
   var params = new URLSearchParams(window.location.search);
   var urlCuisine = params.get('cuisine');
   var urlType = params.get('type');
-  if (urlCuisine) {
-    var cTag = document.querySelector('#cuisine-tags .tag[data-filter="' + urlCuisine + '"]');
-    if (cTag) {
-      document.querySelectorAll('#cuisine-tags .tag').forEach(function(t){ t.classList.remove('on'); });
-      cTag.classList.add('on');
-      activeCuisine = urlCuisine;
-    }
-  }
-  if (urlType) {
-    var tTag = document.querySelector('#type-tags .tag[data-filter="' + urlType + '"]');
-    if (tTag) {
-      tTag.classList.add('on');
-      activeType = urlType;
-    }
-  }
-  if (urlCuisine || urlType) {
-    filter(activeCuisine, activeType);
-  }
+  if (urlCuisine && urlCuisine !== 'all') { go(urlCuisine); return; }
+  if (urlType) { go(urlType); return; }
+  var cTags = document.getElementById('cuisine-tags');
+  if (cTags) cTags.addEventListener('click', function(e){
+    if (!e.target.classList.contains('tag')) return;
+    go(e.target.dataset.filter);
+  });
+  var tTags = document.getElementById('type-tags');
+  if (tTags) tTags.addEventListener('click', function(e){
+    if (!e.target.classList.contains('tag')) return;
+    go(e.target.dataset.filter);
+  });
 })();
 </script>
 <div class="footer">
