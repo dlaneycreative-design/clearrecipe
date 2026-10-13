@@ -14,3 +14,5 @@
 /it /italian/ 301
 /ja/* /japanese/:splat 301
 /ja /japanese/ 301
+/ar/* /arabic/:splat 301
+/ar /arabic/ 301
