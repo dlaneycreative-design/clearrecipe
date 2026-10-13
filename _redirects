@@ -18,3 +18,5 @@
 /ar /arabic/ 301
 /tr/* /turkish/:splat 301
 /tr /turkish/ 301
+/vi/* /vietnamese/:splat 301
+/vi /vietnamese/ 301
