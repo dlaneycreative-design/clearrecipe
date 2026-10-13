@@ -6,7 +6,7 @@
     en:"English", id:"Bahasa Indonesia", es:"Español", hi:"हिन्दी", pt:"Português",
     ar:"العربية", fr:"Français", vi:"Tiếng Việt", tr:"Türkçe", bn:"বাংলা", ta:"தமிழ்"
   };
-  var AVAILABLE = CFG.available || ["en","id","es","pt","fr"]; /* languages actually built */
+  var AVAILABLE = CFG.available || ["en","id","es","pt","fr","de"]; /* languages actually built */
   var RTL = {ar:1};
   var LS_KEY = (CFG.site || "cr") + "_lang";
   /* language code -> URL directory (full names, Dave's clarity rule) */
