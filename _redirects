@@ -20,3 +20,5 @@
 /tr /turkish/ 301
 /vi/* /vietnamese/:splat 301
 /vi /vietnamese/ 301
+/ko/* /korean/:splat 301
+/ko /korean/ 301
