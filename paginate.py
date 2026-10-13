@@ -63,7 +63,7 @@ def build_head(page_num, start, end):
         return head
     # paginated pages: self-canonical, range-specific title/description
     canonical = f"{SITE}/page{page_num}.html"
-    title = f"Clean Recipes {start} to {end} | Clear Recipe"
+    title = f"Clear Recipe {start} to {end} | Clear Recipe"
     desc = (f"No ads. Just great recipes. Browse clean recipes {start} to {end}. "
             "Loads in milliseconds. Every recipe has a video.")
     head = head.replace(
@@ -117,7 +117,7 @@ for p in range(1, 13):
         body_top = head  # homepage H1 unchanged
     else:
         body_top = head.replace(H1_ORIG,
-            f'<h1 class="title">Clean Recipes {start_n} to {end_n}</h1>', 1)
+            f'<h1 class="title">Clear Recipe {start_n} to {end_n}</h1>', 1)
     new_ul = '<ul class="recipelist">' + "".join(slice_items) + "</ul>"
     page_html = body_top + new_ul + pagination_nav(p) + post_ul
 

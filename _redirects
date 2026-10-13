@@ -10,3 +10,5 @@
 /de /german/ 301
 /hi/* /hindi/:splat 301
 /hi /hindi/ 301
+/it/* /italian/:splat 301
+/it /italian/ 301
