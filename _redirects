@@ -6,3 +6,5 @@
 /pt /portuguese/ 301
 /fr/* /french/:splat 301
 /fr /french/ 301
+/de/* /german/:splat 301
+/de /german/ 301
