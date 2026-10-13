@@ -6,20 +6,25 @@
     en:"English", id:"Bahasa Indonesia", es:"Español", hi:"हिन्दी", pt:"Português",
     ar:"العربية", fr:"Français", vi:"Tiếng Việt", tr:"Türkçe", bn:"বাংলা", ta:"தமிழ்"
   };
-  var AVAILABLE = CFG.available || ["en","id","es"]; /* languages actually built */
+  var AVAILABLE = CFG.available || ["en","id","es","pt","fr"]; /* languages actually built */
   var RTL = {ar:1};
   var LS_KEY = (CFG.site || "cr") + "_lang";
+  /* language code -> URL directory (full names, Dave's clarity rule) */
+  var DIR = {en:"", es:"spanish", id:"indonesian", pt:"portuguese", fr:"french", de:"german"};
+  var DIR2CODE = {"spanish":"es","indonesian":"id","portuguese":"pt","french":"fr","german":"de"};
   var GEO2LANG = {id:"id",es:"es",mx:"es",ar:"es",cl:"es",co:"es",pe:"es",ve:"es",
     in:"hi",br:"pt",pt:"pt",fr:"fr",be:"fr",ch:"fr",vn:"vi",tr:"tr",bd:"bn",sa:"ar",
     eg:"ar",ae:"ar",qa:"ar",kw:"ar",ma:"ar",dz:"ar",tn:"ar",jo:"ar"};
 
   function currentLang(){
-    var m = location.pathname.match(/^\/([a-z]{2})(?:\/|$)/);
-    return (m && AVAILABLE.indexOf(m[1]) >= 0) ? m[1] : "en";
+    var m = location.pathname.match(/^\/([a-z]+)(?:\/|$)/);
+    if (!m) return "en";
+    var code = DIR2CODE[m[1]];
+    return (code && AVAILABLE.indexOf(code) >= 0) ? code : "en";
   }
   function stripLang(path){
-    var m = path.match(/^\/[a-z]{2}(\/.*)?$/);
-    if (m && AVAILABLE.indexOf(path.slice(1,3)) >= 0) return m[1] || "/";
+    var m = path.match(/^\/([a-z]+)(\/.*)?$/);
+    if (m && DIR2CODE[m[1]] && AVAILABLE.indexOf(DIR2CODE[m[1]]) >= 0) return m[2] || "/";
     return path;
   }
   function setSelector(lang){
@@ -28,7 +33,8 @@
   }
   function go(lang){
     try { localStorage.setItem(LS_KEY, lang); } catch(e){}
-    var target = lang === "en" ? stripLang(location.pathname) : "/" + lang + stripLang(location.pathname);
+    var dir = DIR[lang] || "";
+    var target = lang === "en" ? stripLang(location.pathname) : "/" + dir + stripLang(location.pathname);
     if (target !== location.pathname + location.search + location.hash)
       location.href = target + location.search + location.hash;
   }
@@ -37,7 +43,7 @@
   function autodetect(){
     var lang = currentLang();
     var path = location.pathname;
-    var isRoot = path === "/" || AVAILABLE.some(function(l){ return path === "/" + l + "/"; });
+    var isRoot = path === "/" || AVAILABLE.some(function(l){ return path === "/" + (DIR[l] || l) + "/"; });
     if (!isRoot) return;
     var stored = null;
     try { stored = localStorage.getItem(LS_KEY); } catch(e){}

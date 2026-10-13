@@ -1,0 +1,8 @@
+/es/* /spanish/:splat 301
+/es /spanish/ 301
+/id/* /indonesian/:splat 301
+/id /indonesian/ 301
+/pt/* /portuguese/:splat 301
+/pt /portuguese/ 301
+/fr/* /french/:splat 301
+/fr /french/ 301

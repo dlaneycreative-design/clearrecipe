@@ -181,9 +181,9 @@ section ol.method li{padding-left:46px}
 (function(){
   var path = window.location.pathname;
   var prefix = '/';
-  if (path.indexOf('/es/') === 0) prefix = '/es/';
-  else if (path.indexOf('/id/') === 0) prefix = '/id/';
-  else if (path.indexOf('/pt/') === 0) prefix = '/pt/';
+  if (path.indexOf('/spanish/') === 0) prefix = '/spanish/';
+  else if (path.indexOf('/indonesian/') === 0) prefix = '/indonesian/';
+  else if (path.indexOf('/portuguese/') === 0) prefix = '/portuguese/';
   function go(filter) {
     if (!filter || filter === 'all') { window.location.href = prefix; return; }
     window.location.href = prefix + 'tag/' + filter + '/';
