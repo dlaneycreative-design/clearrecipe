@@ -8,3 +8,5 @@
 /fr /french/ 301
 /de/* /german/:splat 301
 /de /german/ 301
+/hi/* /hindi/:splat 301
+/hi /hindi/ 301
