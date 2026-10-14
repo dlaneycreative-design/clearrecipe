@@ -131,3 +131,23 @@
     autodetect();
   });
 })();
+
+/* Clear Recipe menu (Dave, Oct 14 2026): hamburger toggle + outside-click close.
+   The panel is absolutely positioned under the header; nothing here is sticky or fixed. */
+window.crMenuToggle = function (btn) {
+  var panel = btn.parentNode.querySelector('.crmenu-panel');
+  if (!panel) return;
+  if (panel.hasAttribute('hidden')) { panel.removeAttribute('hidden'); btn.setAttribute('aria-expanded', 'true'); }
+  else { panel.setAttribute('hidden', ''); btn.setAttribute('aria-expanded', 'false'); }
+};
+document.addEventListener('click', function (e) {
+  var panels = document.querySelectorAll('.crmenu-panel');
+  for (var i = 0; i < panels.length; i++) {
+    var p = panels[i];
+    if (!p.hasAttribute('hidden') && !p.parentNode.contains(e.target)) {
+      p.setAttribute('hidden', '');
+      var b = p.parentNode.querySelector('.crmenu-btn');
+      if (b) b.setAttribute('aria-expanded', 'false');
+    }
+  }
+});

@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://clearrecipe.net/</loc></url>
   <url><loc>https://clearrecipe.net/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/top100/</loc></url>
   <url><loc>https://clearrecipe.net/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/chicken-and-waffles/</loc></url>
@@ -667,6 +668,7 @@
   <url><loc>https://clearrecipe.net/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/spanish/</loc></url>
   <url><loc>https://clearrecipe.net/spanish/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/spanish/top100/</loc></url>
   <url><loc>https://clearrecipe.net/spanish/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/spanish/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/spanish/chicken-and-waffles/</loc></url>
@@ -1332,6 +1334,7 @@
   <url><loc>https://clearrecipe.net/spanish/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/indonesian/</loc></url>
   <url><loc>https://clearrecipe.net/indonesian/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/indonesian/top100/</loc></url>
   <url><loc>https://clearrecipe.net/indonesian/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/indonesian/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/indonesian/chicken-and-waffles/</loc></url>
@@ -1997,6 +2000,7 @@
   <url><loc>https://clearrecipe.net/indonesian/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/portuguese/</loc></url>
   <url><loc>https://clearrecipe.net/portuguese/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/portuguese/top100/</loc></url>
   <url><loc>https://clearrecipe.net/portuguese/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/portuguese/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/portuguese/chicken-and-waffles/</loc></url>
@@ -2662,6 +2666,7 @@
   <url><loc>https://clearrecipe.net/portuguese/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/french/</loc></url>
   <url><loc>https://clearrecipe.net/french/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/french/top100/</loc></url>
   <url><loc>https://clearrecipe.net/french/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/french/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/french/chicken-and-waffles/</loc></url>
@@ -3327,6 +3332,7 @@
   <url><loc>https://clearrecipe.net/french/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/german/</loc></url>
   <url><loc>https://clearrecipe.net/german/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/german/top100/</loc></url>
   <url><loc>https://clearrecipe.net/german/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/german/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/german/chicken-and-waffles/</loc></url>
@@ -3992,6 +3998,7 @@
   <url><loc>https://clearrecipe.net/german/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/hindi/</loc></url>
   <url><loc>https://clearrecipe.net/hindi/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/hindi/top100/</loc></url>
   <url><loc>https://clearrecipe.net/hindi/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/hindi/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/hindi/chicken-and-waffles/</loc></url>
@@ -4657,6 +4664,7 @@
   <url><loc>https://clearrecipe.net/hindi/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/italian/</loc></url>
   <url><loc>https://clearrecipe.net/italian/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/italian/top100/</loc></url>
   <url><loc>https://clearrecipe.net/italian/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/italian/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/italian/chicken-and-waffles/</loc></url>
@@ -5322,6 +5330,7 @@
   <url><loc>https://clearrecipe.net/italian/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/japanese/</loc></url>
   <url><loc>https://clearrecipe.net/japanese/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/japanese/top100/</loc></url>
   <url><loc>https://clearrecipe.net/japanese/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/japanese/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/japanese/chicken-and-waffles/</loc></url>
@@ -5987,6 +5996,7 @@
   <url><loc>https://clearrecipe.net/japanese/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/arabic/</loc></url>
   <url><loc>https://clearrecipe.net/arabic/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/arabic/top100/</loc></url>
   <url><loc>https://clearrecipe.net/arabic/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/arabic/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/arabic/chicken-and-waffles/</loc></url>
@@ -6652,6 +6662,7 @@
   <url><loc>https://clearrecipe.net/arabic/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/turkish/</loc></url>
   <url><loc>https://clearrecipe.net/turkish/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/turkish/top100/</loc></url>
   <url><loc>https://clearrecipe.net/turkish/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/turkish/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/turkish/chicken-and-waffles/</loc></url>
@@ -7317,6 +7328,7 @@
   <url><loc>https://clearrecipe.net/turkish/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/vietnamese/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/vietnamese/top100/</loc></url>
   <url><loc>https://clearrecipe.net/vietnamese/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/vietnamese/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/vietnamese/chicken-and-waffles/</loc></url>
@@ -7982,6 +7994,7 @@
   <url><loc>https://clearrecipe.net/vietnamese/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/korean/</loc></url>
   <url><loc>https://clearrecipe.net/korean/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/korean/top100/</loc></url>
   <url><loc>https://clearrecipe.net/korean/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/korean/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/korean/chicken-and-waffles/</loc></url>
@@ -8647,6 +8660,7 @@
   <url><loc>https://clearrecipe.net/korean/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/russian/</loc></url>
   <url><loc>https://clearrecipe.net/russian/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/russian/top100/</loc></url>
   <url><loc>https://clearrecipe.net/russian/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/russian/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/russian/chicken-and-waffles/</loc></url>
@@ -9312,6 +9326,7 @@
   <url><loc>https://clearrecipe.net/russian/tag/vietnamese/</loc></url>
   <url><loc>https://clearrecipe.net/dutch/</loc></url>
   <url><loc>https://clearrecipe.net/dutch/thanksgiving/</loc></url>
+  <url><loc>https://clearrecipe.net/dutch/top100/</loc></url>
   <url><loc>https://clearrecipe.net/dutch/croissant/</loc></url>
   <url><loc>https://clearrecipe.net/dutch/chana-masala/</loc></url>
   <url><loc>https://clearrecipe.net/dutch/chicken-and-waffles/</loc></url>

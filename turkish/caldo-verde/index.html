@@ -91,7 +91,15 @@ section ol.method li{padding-left:46px}
 .recipetags{margin:0 0 24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px}
 .recipetags a{color:#a0a0a0;text-decoration:none;margin-right:16px}
 .recipetags a:hover{color:#1a8917}
-.masthead .topnav{margin-left:auto}.masthead #cr-lang-host:not(:empty){margin-left:14px}#cr-lang-host{position:relative;display:inline-flex;align-items:center;gap:6px}.cr-lang-label{font-size:19px;line-height:1}.cr-lang-select{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;color:#242424;background:#fff;border:1px solid #e2e2e2;border-radius:999px;padding:5px 10px;max-width:170px}.stepimg{width:132px;height:132px;object-fit:cover;border-radius:12px;flex:0 0 auto;display:block}.steptxt{flex:1;min-width:0}@media (max-width:640px){.cr-lang-select{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;border:0;padding:0}.brand span{font-size:18px}.stepimg{width:120px;height:120px}}</style>
+.masthead .topnav{margin-left:auto}.masthead #cr-lang-host:not(:empty){margin-left:14px}#cr-lang-host{position:relative;display:inline-flex;align-items:center;gap:6px}.cr-lang-label{font-size:19px;line-height:1}.cr-lang-select{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;color:#242424;background:#fff;border:1px solid #e2e2e2;border-radius:999px;padding:5px 10px;max-width:170px}.stepimg{width:132px;height:132px;object-fit:cover;border-radius:12px;flex:0 0 auto;display:block}.steptxt{flex:1;min-width:0}@media (max-width:640px){.cr-lang-select{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;border:0;padding:0}.brand span{font-size:18px}.stepimg{width:120px;height:120px}}
+.crmenu{position:relative}
+.crmenu-btn{width:42px;height:42px;border:1px solid #e6e6e6;background:#fff;border-radius:11px;font-size:19px;line-height:1;cursor:pointer;color:#242424;display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;padding:0}
+.crmenu-panel{position:absolute;top:calc(100% + 10px);right:0;background:#fff;border:1px solid #eee;border-radius:14px;box-shadow:0 12px 32px rgba(0,0,0,.10);padding:8px;min-width:232px;z-index:60;display:flex;flex-direction:column}
+.crmenu-panel[hidden]{display:none}
+.crmenu-panel a{padding:10px 14px;border-radius:9px;color:#242424;font-size:15px;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;white-space:nowrap}
+.crmenu-panel a:hover{background:#f6f6f4;text-decoration:none}
+.recipelist div.rlink{display:flex;gap:18px;align-items:baseline;text-decoration:none}
+</style>
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JGYMD5PP47"></script>
 <script>
@@ -101,7 +109,7 @@ section ol.method li{padding-left:46px}
   gtag('config', 'G-JGYMD5PP47');
 </script>
 </head><body>
-<div class="masthead"><div class="home"><a class="brand" href="https://clearrecipe.net/turkish/"><img class="brand-leaf" src="/leaf.webp" alt="Clear Recipe" width="480" height="480"><span>Clear Recipe</span></a><nav class="topnav"><a href="https://clearrecipe.net/about/">Hakkımızda</a> &middot; <a href="https://clearrecipe.net/premium/" style="color:#1a8917;font-weight:600">Premium</a></nav><span id="cr-lang-host"></span></div></div>
+<div class="masthead"><div class="home"><a class="brand" href="https://clearrecipe.net/turkish/"><img class="brand-leaf" src="/leaf.webp" alt="Clear Recipe" width="480" height="480"><span>Clear Recipe</span></a><div class="crmenu"><button class="crmenu-btn" type="button" aria-label="Menu" aria-haspopup="true" aria-expanded="false" onclick="crMenuToggle(this)">☰</button><nav class="crmenu-panel" hidden><a href="https://clearrecipe.net/turkish/top100/">Top 100 tarif</a><a href="https://clearrecipe.net/turkish/?lang=tr">Tüm tarifler</a><a href="https://clearrecipe.net/turkish/thanksgiving/">Şükran Günü</a><a href="https://clearrecipe.net/about/">Hakkımızda</a><a href="https://clearrecipe.net/premium/" style="color:#1a8917;font-weight:600">Premium</a></nav></div><span id="cr-lang-host"></span></div></div>
 <div class="article">
 <article data-tags="portuguese,soup,easy,recipe">
 <p class="kicker">Portekiz &middot; Çorba &middot; Kolay</p>
