@@ -45,6 +45,19 @@
     var path = location.pathname;
     var isRoot = path === "/" || AVAILABLE.some(function(l){ return path === "/" + (DIR[l] || l) + "/"; });
     if (!isRoot) return;
+    /* An explicit ?lang= (botcard and footer links carry it) is the reader's
+       stated choice: store it and never autodetect away from it. */
+    var pm = location.search.match(/[?&]lang=([a-z]{2})/);
+    if (pm && AVAILABLE.indexOf(pm[1]) >= 0) {
+      try { localStorage.setItem(LS_KEY, pm[1]); } catch(e){}
+      if (pm[1] !== lang) go(pm[1]);
+      return;
+    }
+    /* Internal navigation never triggers autodetect: a reader already inside
+       the site keeps the language they are reading in. */
+    if (document.referrer) {
+      try { if (new URL(document.referrer).host === location.host) return; } catch(e){}
+    }
     var stored = null;
     try { stored = localStorage.getItem(LS_KEY); } catch(e){}
     if (stored) { if (stored !== lang && AVAILABLE.indexOf(stored) >= 0) go(stored); return; }
