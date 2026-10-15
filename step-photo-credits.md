@@ -17,3 +17,4 @@ program tracker.
 - Bread Guide (/breadguide/) kneading photo: Shixart1985, CC BY 2.0, File:Baker woman's hands kneading bread dough.jpg, via Wikimedia Commons.
 - Bread Guide (/breadguide/) Dutch oven loaves photo: CC0, File:Dutch Oven Sourdough Bread 1.jpg, via Wikimedia Commons.
 - Bread Guide (/breadguide/) sliced loaf photo: Angel Ganev, CC BY 2.0, File:Slices of sourdough bread.jpg, via Wikimedia Commons.
+- Hash Browns step 5: cheeseslave, CC BY 2.0, via Wikimedia Commons (File:Hash Browns in Coconut Oil (7159593410).jpg)
