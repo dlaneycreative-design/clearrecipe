@@ -19,3 +19,4 @@ program tracker.
 - Bread Guide (/breadguide/) sliced loaf photo: Angel Ganev, CC BY 2.0, File:Slices of sourdough bread.jpg, via Wikimedia Commons.
 - Hash Browns step 5: cheeseslave, CC BY 2.0, via Wikimedia Commons (File:Hash Browns in Coconut Oil (7159593410).jpg)
 - Pulled Pork Shoulder step 3: Matthew Field, CC BY-SA 3.0, via Wikimedia Commons (File:Pork shoulder on green egg smoker.jpg)
+- Chiles Rellenos step 1: Karen and Brad Emerson, CC BY 2.0, via Wikimedia Commons (File:Chile Relleno - Step 2 (3850536572).jpg)
