@@ -13,3 +13,7 @@ program tracker.
 - Enchiladas Rojas step 2 "Enchilada sauce-2" by Karen and Brad Emerson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Enchilada_sauce-2_(3589468621).jpg
 - Enchiladas Rojas step 6 "Enchilada sauce-3" by Karen and Brad Emerson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Enchilada_sauce-3_(3589470639).jpg
 - Moussaka step 4: "Béchamel in saucepan" by Saintfevrier, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:B%C3%A9chamel_in_saucepan.jpg
+- Bread Guide (/breadguide/) starter jar photo: PilotChicago, CC BY-SA 4.0, File:Sourdough_starter.jpg, via Wikimedia Commons.
+- Bread Guide (/breadguide/) kneading photo: Shixart1985, CC BY 2.0, File:Baker woman's hands kneading bread dough.jpg, via Wikimedia Commons.
+- Bread Guide (/breadguide/) Dutch oven loaves photo: CC0, File:Dutch Oven Sourdough Bread 1.jpg, via Wikimedia Commons.
+- Bread Guide (/breadguide/) sliced loaf photo: Angel Ganev, CC BY 2.0, File:Slices of sourdough bread.jpg, via Wikimedia Commons.
