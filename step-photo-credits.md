@@ -12,3 +12,4 @@ program tracker.
 | Fish and Chips | 4 | Batter | Father.Jack | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Batter_(1126059663).jpg |
 - Enchiladas Rojas step 2 "Enchilada sauce-2" by Karen and Brad Emerson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Enchilada_sauce-2_(3589468621).jpg
 - Enchiladas Rojas step 6 "Enchilada sauce-3" by Karen and Brad Emerson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Enchilada_sauce-3_(3589470639).jpg
+- Moussaka step 4: "Béchamel in saucepan" by Saintfevrier, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:B%C3%A9chamel_in_saucepan.jpg
