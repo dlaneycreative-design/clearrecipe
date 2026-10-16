@@ -22,3 +22,4 @@ program tracker.
 - Chiles Rellenos step 1: Karen and Brad Emerson, CC BY 2.0, via Wikimedia Commons (File:Chile Relleno - Step 2 (3850536572).jpg)
 - Rosti step 2: Poupou l'quourouce, CC BY 4.0, via Wikimedia Commons (File:Geriebene Kartoffeln für Rösti in Schüssel.jpg)
 - Eggplant Rollatini step 1: Joey Doll, CC BY 2.0, via Wikimedia Commons (File:Eggplant rollatini (43178425981).jpg)
+- Potato Pancakes step 6: Jonathunder, CC BY-SA 3.0, via Wikimedia Commons (File:LatkeFry.JPG)
