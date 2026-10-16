@@ -26,3 +26,4 @@
 /ru /russian/ 301
 /nl/* /dutch/:splat 301
 /nl /dutch/ 301
+/test/ /checker/ 301
