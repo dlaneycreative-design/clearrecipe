@@ -146,4 +146,29 @@ section ol.method li{padding-left:46px}
 <script src="/i18n/i18n.js" defer></script>
 <script src="/speed.js"></script>
 <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0468992d9a944a54862fdfaa57c99920"}'></script>
+<style>.cr-selectall{margin:28px 0 8px;padding:14px 16px;border:1.5px solid #b9cdb9;border-radius:14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}.cr-selectall button{font:inherit;font-weight:600;padding:7px 14px;border-radius:999px;border:1.5px solid #527a52;background:#fff;color:#2f5d2f;cursor:pointer}.cr-selectall button.cr-sa-main{background:#1a8917;border-color:#1a8917;color:#fff}.cr-selectall .cr-sa-count{font-weight:600;color:#2f5d2f}.sa-pick{outline:3px solid #1a8917 !important;outline-offset:2px;border-radius:12px}</style>
+<div class="cr-selectall" id="cr-selectall" data-labels='["Seleccionar todo", "seleccionados", "Borrar", "Copiar enlaces", "Copiado"]'><button type="button" class="cr-sa-main">Seleccionar todo</button><span class="cr-sa-count" aria-live="polite"></span><button type="button" class="cr-sa-clear" hidden>Borrar</button><button type="button" class="cr-sa-copy" hidden>Copiar enlaces</button></div>
+<script>
+(function(){
+var links=[].slice.call(document.querySelectorAll('li.tagcard a[href], a.rlink[href]'));
+if(!links.length) return;
+var bar=document.getElementById('cr-selectall'); if(!bar) return;
+var main=bar.querySelector('.cr-sa-main'), clr=bar.querySelector('.cr-sa-clear'),
+    cpy=bar.querySelector('.cr-sa-copy'), cnt=bar.querySelector('.cr-sa-count');
+var L = JSON.parse(bar.getAttribute('data-labels'));
+var sel=false;
+function host(a){ return a.closest('li')||a; }
+function paint(){ links.forEach(function(a){ host(a).classList.toggle('sa-pick', sel); });
+  cnt.textContent = sel ? (links.length + ' ' + L[1]) : '';
+  clr.hidden = cpy.hidden = !sel; }
+main.addEventListener('click', function(){ sel=true; paint(); });
+clr.addEventListener('click', function(){ sel=false; paint(); });
+cpy.addEventListener('click', function(){
+  var text = links.map(function(a){ return a.href; }).join('\n');
+  function done(){ cpy.textContent = L[4]; setTimeout(function(){ cpy.textContent = L[3]; }, 1600); }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done, done); }
+  else { var ta=document.createElement('textarea'); ta.value=text; document.body.appendChild(ta); ta.select(); try{ document.execCommand('copy'); }catch(e){} ta.remove(); done(); }
+});
+})();
+</script>
 </body></html>
