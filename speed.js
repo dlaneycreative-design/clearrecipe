@@ -1,8 +1,9 @@
 // clear recipe corner: the speed bolt only, all the way in the bottom right of every page. Same bolt as clr.fm.
 // Click the speed button for a popup with this page's real load numbers.
 // Rule 13 (Dave, Oct 18 2026): under 0.50s super fast (half second stretch goal),
-// 0.50 to 0.75s fast (inside the 0.75 second rule), over 0.75s slower than the rule.
-// The verdict keys on the visitor's own unrounded load time.
+// 0.50 to 0.75s fast (inside the 0.75 second rule), 0.75 to 1.00s just outside,
+// over 1.00s slower than one second. The verdict keys on the visitor's own
+// unrounded load time.
 (function () {
   var css = ''
     + '.crcorner{position:fixed;right:4px;bottom:4px;z-index:9998;display:flex;align-items:center;gap:9px;font-family:ui-monospace,Menlo,monospace;}'
@@ -83,9 +84,12 @@
     } else if (secs <= 0.75) {
       dot.className = 'crg crg-up';
       verdict.innerHTML = '<span class="crg crg-up"></span> Fast. Inside our 0.75 second rule.';
-    } else {
+    } else if (secs <= 1) {
       dot.className = 'crg crg-warn';
-      verdict.innerHTML = '<span class="crg crg-warn"></span> Slower than our 0.75 second rule.';
+      verdict.innerHTML = '<span class="crg crg-warn"></span> Just outside our 0.75 second rule.';
+    } else {
+      dot.className = 'crg crg-down';
+      verdict.innerHTML = '<span class="crg crg-down"></span> Slower than one second. We&rsquo;re disappointed.';
     }
   }
   var btn = document.getElementById('crspeedbtn');
