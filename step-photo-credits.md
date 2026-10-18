@@ -59,3 +59,17 @@ program tracker.
 - Chili Crab hero and final step: Dekcuf, CC BY-SA 2.0, via Wikimedia Commons (File:Chilli crab-01.jpg)
 - Lumpia hero and final step: Ralff Nestor Nacor, CC BY-SA 4.0, via Wikimedia Commons (File:Lumpia Shanghai, Dec 2025.jpg)
 - Pavlova hero and final step: Hazel Fowler, Public domain, via Wikimedia Commons (File:Pavlova dessert.JPG)
+
+## Christmas heroes (Oct 18 2026)
+- prime-rib: Prime Rib (23260912464).jpg by Steven Miller, CC BY 2.0, via Wikimedia Commons
+- roast-goose: Weihnachtsgans 2H1A5069WI.jpg by Kora27, CC BY-SA 4.0, via Wikimedia Commons
+- eggnog: Eggnog at Patrona - December 2023 - Sarah Stierch 01.jpg by Missvain, CC BY 4.0, via Wikimedia Commons
+- mulled-wine: Mulled wine - Olea 2025-12-26.jpg by Andy Li, CC0, via Wikimedia Commons
+- gingerbread-cookies: Vánoce, cukroví na talíři, zvrchu.jpg by Honza Groh (Jagro), CC BY-SA 3.0, via Wikimedia Commons
+- sugar-cookies: Decorated sugar cookies 2.jpg by Julie Anne Workman, CC BY-SA 3.0, via Wikimedia Commons
+- buche-de-noel: Buche de Noel (Yule Log).jpg by Mitantig, CC BY-SA 4.0, via Wikimedia Commons
+- panettone: Panettone - Nicolettone 2017 - IMG 7092 (31752504105).jpg by N i c o l a from Fiumicino (Rome), Italy, CC BY 2.0, via Wikimedia Commons
+- christmas-pudding: Christmas pudding (Heston from Waitrose) flaming.jpg by Ed g2s, CC BY-SA 4.0, via Wikimedia Commons
+- mince-pies: -2018-12-22 Mince pies, Cromer.JPG by Kolforn (Kolforn), CC BY-SA 4.0, via Wikimedia Commons
+- peppermint-bark: DIY Christmas Chocolates (Unsplash).jpg by Yoori Koo yoori_koo, CC0, via Wikimedia Commons
+- chestnut-soup: Chestnut and parsnip soup.jpg by Alpha from Melbourne, Australia, CC BY-SA 2.0, via Wikimedia Commons

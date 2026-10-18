@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://clearrecipe.net/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -614,6 +615,18 @@
   <url><loc>https://clearrecipe.net/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -721,6 +734,7 @@
   <url><loc>https://clearrecipe.net/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -1333,6 +1347,18 @@
   <url><loc>https://clearrecipe.net/spanish/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/spanish/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/spanish/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -1440,6 +1466,7 @@
   <url><loc>https://clearrecipe.net/spanish/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -2052,6 +2079,18 @@
   <url><loc>https://clearrecipe.net/indonesian/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/indonesian/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/indonesian/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -2159,6 +2198,7 @@
   <url><loc>https://clearrecipe.net/indonesian/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -2771,6 +2811,18 @@
   <url><loc>https://clearrecipe.net/portuguese/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/portuguese/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/portuguese/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -2878,6 +2930,7 @@
   <url><loc>https://clearrecipe.net/portuguese/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -3490,6 +3543,18 @@
   <url><loc>https://clearrecipe.net/french/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/french/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/french/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -3597,6 +3662,7 @@
   <url><loc>https://clearrecipe.net/french/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -4209,6 +4275,18 @@
   <url><loc>https://clearrecipe.net/german/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/german/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/german/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -4316,6 +4394,7 @@
   <url><loc>https://clearrecipe.net/german/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -4928,6 +5007,18 @@
   <url><loc>https://clearrecipe.net/hindi/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/hindi/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/hindi/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -5035,6 +5126,7 @@
   <url><loc>https://clearrecipe.net/hindi/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -5647,6 +5739,18 @@
   <url><loc>https://clearrecipe.net/italian/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/italian/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/italian/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -5754,6 +5858,7 @@
   <url><loc>https://clearrecipe.net/italian/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -6366,6 +6471,18 @@
   <url><loc>https://clearrecipe.net/japanese/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/japanese/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/japanese/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -6473,6 +6590,7 @@
   <url><loc>https://clearrecipe.net/japanese/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -7085,6 +7203,18 @@
   <url><loc>https://clearrecipe.net/arabic/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/arabic/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/arabic/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -7192,6 +7322,7 @@
   <url><loc>https://clearrecipe.net/arabic/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -7804,6 +7935,18 @@
   <url><loc>https://clearrecipe.net/turkish/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/turkish/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/turkish/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -7911,6 +8054,7 @@
   <url><loc>https://clearrecipe.net/turkish/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -8523,6 +8667,18 @@
   <url><loc>https://clearrecipe.net/vietnamese/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/vietnamese/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/vietnamese/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -8630,6 +8786,7 @@
   <url><loc>https://clearrecipe.net/vietnamese/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -9242,6 +9399,18 @@
   <url><loc>https://clearrecipe.net/korean/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/korean/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/korean/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -9349,6 +9518,7 @@
   <url><loc>https://clearrecipe.net/korean/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -9961,6 +10131,18 @@
   <url><loc>https://clearrecipe.net/russian/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/russian/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/russian/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
@@ -10068,6 +10250,7 @@
   <url><loc>https://clearrecipe.net/russian/shoppinglist/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/thanksgiving/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/christmas/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/top100/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/croissant/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/chana-masala/</loc><lastmod>2026-10-18</lastmod></url>
@@ -10680,6 +10863,18 @@
   <url><loc>https://clearrecipe.net/dutch/tahdig/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/takoyaki/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/tonkotsu-ramen/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/prime-rib/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/roast-goose/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/eggnog/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/mulled-wine/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/gingerbread-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/sugar-cookies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/buche-de-noel/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/panettone/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/christmas-pudding/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/mince-pies/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/peppermint-bark/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://clearrecipe.net/dutch/chestnut-soup/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/roast-turkey/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/turkey-gravy/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://clearrecipe.net/dutch/cranberry-sauce/</loc><lastmod>2026-10-18</lastmod></url>
