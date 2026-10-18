@@ -1,6 +1,8 @@
 // clear recipe corner: the speed bolt only, all the way in the bottom right of every page. Same bolt as clr.fm.
 // Click the speed button for a popup with this page's real load numbers.
-// Rules: load <= 1s green, 1s to 2.5s yellow triangle, over 2.5s red.
+// Rule 13 (Dave, Oct 18 2026): under 0.50s super fast (half second stretch goal),
+// 0.50 to 0.75s fast (inside the 0.75 second rule), over 0.75s slower than the rule.
+// The verdict keys on the visitor's own unrounded load time.
 (function () {
   var css = ''
     + '.crcorner{position:fixed;right:4px;bottom:4px;z-index:9998;display:flex;align-items:center;gap:9px;font-family:ui-monospace,Menlo,monospace;}'
@@ -75,15 +77,15 @@
     document.getElementById('crreq').textContent = String(res.length + 1);
     var dot = document.getElementById('crdot');
     var verdict = document.getElementById('crverdict');
-    if (secs <= 1) {
+    if (secs < 0.5) {
       dot.className = 'crg crg-up';
-      verdict.innerHTML = '<span class="crg crg-up"></span> Fast. Inside our 1 second rule.';
-    } else if (secs <= 2.5) {
-      dot.className = 'crg crg-warn';
-      verdict.innerHTML = '<span class="crg crg-warn"></span> Slow. Over our 1 second rule. Noted.';
+      verdict.innerHTML = '<span class="crg crg-up"></span> Super fast. Inside our half second stretch goal.';
+    } else if (secs <= 0.75) {
+      dot.className = 'crg crg-up';
+      verdict.innerHTML = '<span class="crg crg-up"></span> Fast. Inside our 0.75 second rule.';
     } else {
-      dot.className = 'crg crg-down';
-      verdict.innerHTML = '<span class="crg crg-down"></span> Very slow. This one is on us to fix.';
+      dot.className = 'crg crg-warn';
+      verdict.innerHTML = '<span class="crg crg-warn"></span> Slower than our 0.75 second rule.';
     }
   }
   var btn = document.getElementById('crspeedbtn');
